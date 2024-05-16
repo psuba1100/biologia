@@ -1,0 +1,24 @@
+.backbutton{
+    margin: 2%;
+    z-index: 10000;
+}
+
+body{
+    overflow-x: hidden;
+}
+
+h4, h1{
+    text-transform: uppercase;
+}
+
+h5{
+    text-transform: lowercase;
+}
+
+.border-custom {
+    border: 2px solid #bc6c25 !important; /* Set your desired border color */
+  }
+  
+  .bg-custom {
+    background-color: #dda15e !important; /* Set your desired background color */
+  }
